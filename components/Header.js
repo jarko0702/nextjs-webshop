@@ -55,7 +55,7 @@ function Header() {
             className="relatve h-7 w-7 mr-1 md:mr-4 lg:mr-6 cursor-pointer hover:scale-95 transform duration-100 ease-out"
           >
             <Image
-              className="roundend-full"
+              className="rounded-full"
               src={session.user.image}
               layout="fill"
               objectFit="fill"
